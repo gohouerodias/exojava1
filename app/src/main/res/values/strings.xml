@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Market register</string>
+    <string name="add">add</string>
+    <string name="ce_formulaire_vous_permet_de_cr_er_un_produit_en_un_instant">Ce formulaire vous permet de créer un produit en un instant</string>
+    <string name="quantit_disponible">Quantité disponible</string>
+    <string name="designation">designation</string>
+    <string name="description">Description</string>
+    <string name="prix">Prix</string>
+    <string name="stock_limite">Stock limite</string>
+    <string name="alert_info">Alert Info</string>
+    <string name="info_quantit">Info quantité</string>
+    <string name="price_info">Price Info :</string>
+    <string name="info_description">Info description :</string>
+    <string name="info_name">Info name :</string>
+    <string name="information_du_produit">INFORMATION DU PRODUIT</string>
+    <string name="_100_000">100 000</string>
+    <string name="galaxy_note_11">Galaxy Note 11</string>
+    <string name="_25_disponibles">25 disponibles</string>
+</resources>
